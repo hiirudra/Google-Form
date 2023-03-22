@@ -1,0 +1,44 @@
+.subFont{
+    /* font-family: Roboto; */
+    font-weight: 200;
+}
+.Tinput{
+    font-family: 'Spectral', serif;
+    font-weight: 210 ;
+    margin: 3px solid #dadce0 ;
+    border-top: none;
+}
+.TableBg, .TableBg1{
+    background-color: white;
+    width: 637px;
+    border: 1px solid #dadce0;
+    border-radius: 8px;
+    margin-bottom: 12px;
+
+}
+.TableBg{
+    height: 135px;
+}
+table{
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.Img{
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.formEdit{
+    background-color: rgb(237, 237, 237);
+
+}
+td{
+    padding-left: 20px;
+}
+input[type=text], input[type=email], input[type=number]
+{
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid #dadce0;
+}
